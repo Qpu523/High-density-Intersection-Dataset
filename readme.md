@@ -131,45 +131,17 @@ If you use this dataset or method in your research, please cite the following pa
 ---
 
 ## 📚 Related Publications
+
 The following publications are based on this dataset:
-```bibtex
-@article{pu2025curvttc,
-  title={Modeling crash avoidance behaviors in vehicle-pedestrian near-miss scenarios: Curvilinear time-to-collision and Mamba-driven deep reinforcement learning},
-  author={Pu, Qingwen and Xie, Kun and Guo, Hongyu and Zhu, Yuan},
-  journal={Accident Analysis & Prevention},
-  volume={214},
-  pages={107984},
-  year={2025},
-  publisher={Elsevier},
-  doi={10.1016/j.aap.2025.107984},
-  url={https://doi.org/10.1016/j.aap.2025.107984}
-}
 
-@article{wang2025shockwave,
-  title={A simulation study on traffic conflict risk under shockwave propagation at signalized intersections},
-  author={Wang, Junqing and Yang, Hong and Zhu, Yuan and Xie, Kun and Yan, Zizheng and Pu, Qingwen},
-  journal={Accident Analysis & Prevention},
-  volume={218},
-  pages={108081},
-  year={2025},
-  publisher={Elsevier},
-  doi={10.1016/j.aap.2025.108081},
-  url={https://doi.org/10.1016/j.aap.2025.108081}
-}
+1. Pu, Q., Xie, K., Zhu, Y., Zhai, G. (2027). Generating realistic safety-critical scenarios for vehicle–pedestrian interactions. **Transportation Research Part C: Emerging Technologies**, 194, 106002. [DOI](https://doi.org/10.1016/j.trc.2026.106002)
 
-@article{pu2026interactive,
-  title={Modeling interactive crash avoidance behaviors: A multi-agent state-space transformer-enhanced reinforcement learning framework},
-  author={Pu, Qingwen and Xie, Kun and Guo, Hongyu and Zhu, Yuan},
-  journal={Accident Analysis & Prevention},
-  volume={226},
-  pages={108334},
-  year={2026},
-  publisher={Elsevier},
-  doi={10.1016/j.aap.2025.108334},
-  url={https://doi.org/10.1016/j.aap.2025.108334}
-}
-```
+2. Pu, Q., Xie, K., Guo, H., Zhu, Y. (2026). Modeling interactive crash avoidance behaviors: A multi-agent state-space transformer-enhanced reinforcement learning framework. **Accident Analysis & Prevention**, 226, 108334. [DOI](https://doi.org/10.1016/j.aap.2025.108334)
 
+3. Pu, Q., Xie, K., Guo, H., Zhu, Y. (2025). Modeling crash avoidance behaviors in vehicle-pedestrian near-miss scenarios: Curvilinear time-to-collision and Mamba-driven deep reinforcement learning. **Accident Analysis & Prevention**, 214, 107984. [DOI](https://doi.org/10.1016/j.aap.2025.107984)
+
+4. Wang, J., Yang, H., Zhu, Y., Xie, K., Yan, Z., Pu, Q. (2025). A simulation study on traffic conflict risk under shockwave propagation at signalized intersections. **Accident Analysis & Prevention**, 218, 108081. [DOI](https://doi.org/10.1016/j.aap.2025.108081)
+---
 
 
 
